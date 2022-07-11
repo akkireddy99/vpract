@@ -17,4 +17,4 @@ jobs:
         server: www.adarshdc.com
         username: ${{ secrets.ftp_username }}
         password: ${{ secrets.ftp_password }}
-        server-dir: http://www.skan.co.in/
+        server-dir: http://skan.co.in/
